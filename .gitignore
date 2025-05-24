@@ -2,3 +2,7 @@
 "*.log" 
 ".idea/" 
 "*.iml" 
+"target/" 
+"*.log" 
+".idea/" 
+"*.iml" 
